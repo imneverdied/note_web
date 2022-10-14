@@ -1,4 +1,4 @@
-note_web
+note_web 可自行新增筆記的小網站
 --------------------
 需安裝live-server</br>
 點 啟動網站.bat 開啟網站</br>
